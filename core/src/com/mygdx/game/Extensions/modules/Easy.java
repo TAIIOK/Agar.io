@@ -33,7 +33,7 @@ public class Easy implements Module {
 
         Random mRand = new Random();
 
-        int num = mRand.nextInt(1) - 1;
+        int num = mRand.nextInt(4) +1;
         player.sprite().setX(player.sprite().getOldX() + num);
             player.sprite().setY(player.sprite().getOldY()+ num);
 
