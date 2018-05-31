@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42a97bb7-0dc3-4cb7-9c72-f997696ff5e2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Agar.io.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/test/java/com/mygdx/game/Extensions/modules/EasyTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.iml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/build.gradle" afterPath="$PROJECT_DIR$/core/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/core.iml" afterPath="$PROJECT_DIR$/core/core.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/core_main.iml" afterPath="$PROJECT_DIR$/core/core_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/core_test.iml" afterPath="$PROJECT_DIR$/core/core_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/desktop/desktop.iml" afterPath="$PROJECT_DIR$/desktop/desktop.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/desktop/desktop_main.iml" afterPath="$PROJECT_DIR$/desktop/desktop_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/desktop/desktop_test.iml" afterPath="$PROJECT_DIR$/desktop/desktop_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.ipr" afterPath="$PROJECT_DIR$/test.ipr" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.iws" afterPath="$PROJECT_DIR$/test.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/src/test/java/com/mygdx/game/Extensions/modules/EasyTest.java" afterPath="$PROJECT_DIR$/core/src/test/java/com/mygdx/game/Extensions/modules/EasyTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -178,8 +167,8 @@
       <file leaf-file-name="EasyTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/core/src/test/java/com/mygdx/game/Extensions/modules/EasyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="40" lean-forward="false" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+            <state relative-caret-position="167">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -1489,12 +1478,12 @@
       <workItem from="1519996008559" duration="169000" />
       <workItem from="1519996454611" duration="599000" />
       <workItem from="1527787210784" duration="6443000" />
-      <workItem from="1527801883072" duration="2010000" />
+      <workItem from="1527801883072" duration="2348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84194000" />
+    <option name="totallyTimeSpent" value="84532000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="66" y="29" width="1292" height="812" extended-state="0" />
@@ -1990,8 +1979,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/core/src/test/java/com/mygdx/game/Extensions/modules/EasyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="40" lean-forward="false" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        <state relative-caret-position="167">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding />
         </state>
       </provider>
