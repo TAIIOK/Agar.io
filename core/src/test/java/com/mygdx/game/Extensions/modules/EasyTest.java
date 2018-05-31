@@ -2,6 +2,8 @@ package com.mygdx.game.Extensions.modules;
 
 import com.mygdx.game.GameView;
 import com.mygdx.game.factory.GameObjectFactory;
+import com.mygdx.game.gamemodel.Dish;
+import com.mygdx.game.gameobject.DishObject;
 import com.mygdx.game.gameobject.GameObjectType;
 import com.mygdx.game.gameobject.PlayerBacteria;
 
@@ -19,24 +21,10 @@ public class EasyTest {
 
         GameObjectFactory gameObjectFactory = new GameObjectFactory();
 
+        GameView test = new GameView();
 
-        instance.player.setPosition(GameView.initialPlayerPosition);
 
-        instance.load(instance.player);
-
-        double old_x =instance.player.getPosition().getX();
-        double old_y =instance.player.getPosition().getY();
-
-        instance.run();
-        instance.run();
-        instance.run();
-        instance.run();
-
-        if(old_x == instance.player.sprite().getOldX() && old_y == instance.player.sprite().getOldY()){
-
-            result = false;
-
-        }
+ 
 
         assertEquals(true, result);
 
