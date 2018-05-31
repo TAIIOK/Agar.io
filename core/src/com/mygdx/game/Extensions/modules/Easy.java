@@ -34,8 +34,8 @@ public class Easy implements Module {
         Random mRand = new Random();
 
         int num = mRand.nextInt(4) +1;
-        player.sprite().setX(player.sprite().getOldX() + num);
-            player.sprite().setY(player.sprite().getOldY()+ num);
+        player.setPosition(new Point((int)(player.getPosition().getX() + num), (int) (player.getPosition().getY() + num)));
+
 
         return 0;
     }
