@@ -1,75 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42a97bb7-0dc3-4cb7-9c72-f997696ff5e2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/test/java/com/mygdx/game/Extensions/modules/EasyTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/BasicCollisionGroup.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/Extensions/Module.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/Extensions/ModuleEngine.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/Extensions/ModuleLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/Extensions/modules/Easy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/GameObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/GameView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/Graphics2D.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/ImageBackground.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/MyGdxGame.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/PlayField.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/Sprite.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/SpriteGroup.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/SystemFont.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/TextureManager$Entry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/TextureManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/collision/AIAICollision.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/collision/AIAgarCollision.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/collision/AIObstacleCollision.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/collision/Axle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/collision/Ellipse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/collision/Line.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/collision/Math$CollisionPointPair.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/collision/Math.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/collision/PlayerAICollision.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/collision/PlayerAgarCollision.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/collision/PlayerObstacleCollision.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/collision/PlayerObstacleCollisionDOWN.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/collision/PlayerObstacleCollisionFAST.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/collision/PlayerObstacleCollisionLEFT.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/collision/PlayerObstacleCollisionRIGHT.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/collision/PlayerObstacleCollisionSLOW.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/collision/PlayerObstacleCollisionUP.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/controller/AIBacteriaController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/controller/BacteriaController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/controller/PlayerBacteriaController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/factory/GameObjectFactory$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/factory/GameObjectFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/gamemodel/Dish.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/gamemodel/GameModel$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/gamemodel/GameModel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/gameobject/AIBacteria.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/gameobject/Agar.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/gameobject/Bacteria.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/gameobject/DishObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/gameobject/GameObjectType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/gameobject/Obstacle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/gameobject/PlayerBacteria.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/listeners/AIObstacleCollisionListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/listeners/GameObjectEatenListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/listeners/GameOverListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/listeners/LevelUpListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/listeners/SpawnGameObjectListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/screen/GameOverScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/screen/StartScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/sprites/Agar.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/utils/GameMath.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/utils/ImageScaler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/utils/PositionRandomizer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/utils/TextureManager$Entry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/out/production/classes/com/mygdx/game/utils/TextureManager.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/build.gradle" afterPath="$PROJECT_DIR$/core/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/core_test.iml" afterPath="$PROJECT_DIR$/core/core_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.ipr" afterPath="$PROJECT_DIR$/test.ipr" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.iws" afterPath="$PROJECT_DIR$/test.iws" />
-    </list>
+    <list default="true" id="42a97bb7-0dc3-4cb7-9c72-f997696ff5e2" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -178,7 +110,7 @@
         <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/gamemodel/GameModel.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
-              <caret line="137" column="0" lean-forward="true" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+              <caret line="137" column="0" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1546,12 +1478,12 @@
       <workItem from="1519996008559" duration="169000" />
       <workItem from="1519996454611" duration="599000" />
       <workItem from="1527787210784" duration="6443000" />
-      <workItem from="1527801883072" duration="1314000" />
+      <workItem from="1527801883072" duration="1758000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83498000" />
+    <option name="totallyTimeSpent" value="83942000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="74" y="100" width="1292" height="812" extended-state="0" />
@@ -2037,7 +1969,7 @@
     <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/gamemodel/GameModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="137" column="0" lean-forward="true" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+          <caret line="137" column="0" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
