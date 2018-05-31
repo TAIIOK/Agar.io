@@ -161,8 +161,8 @@
       <file leaf-file-name="EasyTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/core/src/test/java/com/mygdx/game/Extensions/modules/EasyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+            <state relative-caret-position="287">
+              <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1526,7 +1526,7 @@
       <workItem from="1519996008559" duration="169000" />
       <workItem from="1519996454611" duration="599000" />
       <workItem from="1527787210784" duration="6443000" />
-      <workItem from="1527801883072" duration="3845000" />
+      <workItem from="1527801883072" duration="3961000" />
     </task>
     <servers />
   </component>
@@ -1554,7 +1554,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86029000" />
+    <option name="totallyTimeSpent" value="86145000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="72" y="23" width="1292" height="812" extended-state="0" />
@@ -2040,8 +2040,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/core/src/test/java/com/mygdx/game/Extensions/modules/EasyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        <state relative-caret-position="287">
+          <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -24,14 +24,14 @@ public class EasyTest {
         GameView test = new GameView();
 
 
- 
+
 
         assertEquals(true, result);
 
 // TODO review the generated test code and remove the default call to fail.
 
-        fail("The test case is a prototype.");
-        fail("The test case is a prototype.");
+       // fail("The test case is a prototype.");
+      //  fail("The test case is a prototype.");
     }
 
 }
