@@ -1,0 +1,15 @@
+package com.mygdx.game.gameobject;
+
+public enum GameObjectType {
+  PLAYER_BACTERIA,
+  AI_BACTERIA_PASSIVE,
+  AI_BACTERIA_AGRO,
+  AGAR,
+  OBSTACLE,
+  OBSTACLE_LEFT,
+  OBSTACLE_RIGHT,
+  OBSTACLE_UP,
+  OBSTACLE_DOWN,
+  OBSTACLE_SLOW,
+  OBSTACLE_FAST
+}
