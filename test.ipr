@@ -11,11 +11,11 @@
       <entry name="!?*.groovy" />
       <entry name="!?*.java" />
     </wildcardResourcePatterns>
-    <bytecodeTargetLevel target="9">
-      <module name="core_main" target="9" />
-      <module name="core_test" target="9" />
-      <module name="desktop_main" target="9" />
-      <module name="desktop_test" target="9" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="core_main" target="1.8" />
+      <module name="core_test" target="1.8" />
+      <module name="desktop_main" target="1.8" />
+      <module name="desktop_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="CopyrightManager" default="" />
@@ -204,11 +204,14 @@
       <module fileurl="file://$PROJECT_DIR$/test.iml" filepath="$PROJECT_DIR$/test.iml" />
     </modules>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="true" project-jdk-name="9.0" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="SvnBranchConfigurationManager">
     <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
   <component name="libraryTable">
     <library name="Gradle: com.badlogicgames.gdx:gdx-ai:1.8.0">
